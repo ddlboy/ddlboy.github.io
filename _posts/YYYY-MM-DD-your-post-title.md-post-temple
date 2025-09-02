@@ -2,7 +2,7 @@
 layout: post
 title:  "这里是文章标题"
 date:   2025-09-02 10:00:00 +0800
-author: ddlboy # 或者您的名字
+author: 苏文渊 # 或者您的名字
 categories: [技术, 生活] # 文章分类，可以有多个
 tags: [Jekyll, 博客, 指南] # 文章标签，可以有多个
 # 以下为可选的、但很有用的元数据
